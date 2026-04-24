@@ -8,13 +8,29 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Homework/Homework_1.qmd
+        text: Homework 1
+      - href: Homework/Homework_2.qmd
+        text: Homework 2
+      - href: Homework/Homework_3.qmd
+        text: Homework 3
+      - href: Homework/Homework_4.qmd
+        text: Homework 4
+      - href: Homework/Homework_5.qmd
+        text: Homework 5
+      - href: Homework/Homework_6.qmd
+        text: Homework 6
+      - href: Homework/Homework_7.qmd
+        text: Homework 7
+      - href: Homework/Homework_8.qmd
+        text: Homework 8
 
 format:
   html:
     theme:
-      - cosmo
+      - cerulean
       - brand
+    mainfont: "Times New Roman"
     css: styles.css
     toc: true
 
